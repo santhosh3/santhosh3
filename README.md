@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Santhosh Chinna 👋
 
 
 Analytical and detail-oriented aspiring Backend Developer with specialization in MERN stack. Capable of writing production ready code
