@@ -1,21 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Santhosh Chinna</h1>
-<h3 align="center">Analytical and detail-oriented aspiring Backend Developer with speciaAlization in MERN stack. Capable of writing production ready code</h3>
+<h3 align="center">Analytical and detail-oriented aspiring Full Stack Developer with specialization in MERN and MEANstack. Capable of writing production-ready code</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh3&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh3" /> </p>
 
 <p align="left"> <a href="https://twitter.com/santhos03412845" target="blank"><img src="https://img.shields.io/twitter/follow/santhos03412845?logo=twitter&style=for-the-badge" alt="santhos03412845" /></a> </p>
 
-- 🌱 I’m currently learning **React and MySql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santhosh3?tab=repositories](https://github.com/santhosh3?tab=repositories)
 
 - 💬 Ask me about **NodeJS**
 
-- 📫 How to reach me **santhoshchinna109@gmail.com**
+- 📫 How to reach me **santhoshchinna109@outlook.com**
 
-- ⚡ Fun fact **I spent an hour listening songs everyday**
+- ⚡ Fun fact **I spent an hour listening to songs every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
